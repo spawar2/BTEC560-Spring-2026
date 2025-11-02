@@ -1,9 +1,8 @@
-# BTEC560-Spring-2026
-
+# Data-Science-Spring2025
 CSCI 455 Learning Objectives [# Data-Science-Spring2025 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-data-science-4-credit-sprin-1)
 Data Science (Data wrangling, visualization, Machine Learning QDA, LDA, ROC, Decision Trees, Regularization, Text Analysis Feature Engineering, Classification and Model Evaluation, Regression: Basics and Prediction, Evaluation and Interpretation, Clustering, etc.). Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types (qualitative, quantitative), distribution properties, discrete & continuous types, R functions, Hypothesis testing using critical value (Probability, F Statistics, Coefficient) using tests of statistical significance like ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square  test), Hypothesis testing using  critical value (Probability, F Statistics, Coefficient) using Analysis of Variance (ANOVA). Data wrangling and handling. Custom functions in R. Data Visualization (BoxPlots, Scatter Plots).
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
-Date created/updated: December, 9, 2025.
+Date created/updated: December, 9, 2024.
 Data Science:
 [R: ggpubr, tidyverse, datarium, dplyr].
 [Machine Learning:](https://youtu.be/Pju8ecWWRAw)
@@ -17,7 +16,7 @@ https://github.com/spawar2/STAT302/blob/main/Mar-9.Rd
 [Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [Github:](https://github.com/spawar2/Data-Science-Fall2022)
 
-Data Science (4 credit) BTEC560-Spring-2026 (10 students) **Undergraduate Class & Lab: https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
+Data Science (4 credit) Spring 2023 (10 students) **Undergraduate Class & Lab: https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 [Claflin University, Orangeburg, South Carolina, USA.](https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6), United States of America (USA).
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
